@@ -69,9 +69,8 @@ ROC Curve:<br>
 SSIM score: **0.863** <br>
 AUC: **0.991** <br>
 Percision: **0.9975** <br>
-<!-- by pytorch_msssim.SSIM<br>
-by the same metrics code as [CircuitNet](https://github.com/circuitnet/CircuitNet)
-## Reference
+
+ Reference
 ```markdown
 [1] V. A. Chhabria, Y. Zhang, H. Ren, B. Keller, and S. S. Sapatnekar, "Mavirec: mL-aided vectored ir-drop estimation and classification," *Design, Automation & Test in Europe Conference & Exhibition*, pp. 1825-1828, 2021.
 [2] Y. Luo, X. Cao, J. Zhang, X. Cao, F. Guo, H. Shen, T. Wang, and Q. Feng, "Ce-fpn: enhancing channel information for object detection," ArXiv Computer Vision and Pattern Recognition, pp. 1-9, 2021.
