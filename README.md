@@ -27,7 +27,8 @@ Additionally, for one prediction process only costs about 2 seconds.
 | $p_{all}$ | $p_{i}+p_{s}+p_{sac}$     |
 |$p_{t}$    |The power of an instance at each time step | 
 
-For more feature information V. A. Chhabria *et al.* **[1]** have discribe the detail of the feature extraction process.<br>
+
+This model is being based on V. A. Chhabria *et al.* **[1]**and the feature extraction process.<br>
 The CE-FPN model is proposed by Y. Luo *et al.* **[2]**.
 ![image](https://github.com/ycchen218/EDA-IRdrop-Prediction/blob/master/git_image/IRdrop_model.png)
 1. The purple CNN block is the CoordConv.
